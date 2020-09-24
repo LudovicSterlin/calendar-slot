@@ -1,0 +1,18 @@
+{
+  "name": "calendar-slot",
+  "version": "1.0.0",
+  "description": "Simple project to found free space in a ical calendar",
+  "main": "main.js",
+  "dependencies": {
+    "ical": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "LudovicSterlin",
+  "license": "ISC"
+}

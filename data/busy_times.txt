@@ -1,0 +1,112 @@
+
+Ical data found with CALNAME:
+ HYP - STERLIN Ludovic (SUPAERO-3 - SUPAERO - 3ème année, <SUPAERO - 3ème année> <DOMAINES PARCOURS> NEURO-IA NEURO-IA, <SUPAERO - 3ème année> <FILIERES PARCOURS> SD - SDD SDD - Sciences des données et décision, <SUPAERO-3 - SUPAERO - 3ème année> <Options> NEUROIA2 NEURO-IA GROUPE 2) - du 27 juillet 2020 au 25 juillet 2021 
+contain  634 entries.
+
+Found 591 classes in the year
+
+Found 88 classes in January
+Found 77 classes in February
+Found 81 classes in March
+Found 106 classes in September
+Found 84 classes in October
+Found 92 classes in November
+Found 63 classes in December
+
+In  September :
+	Found 23 classes the Monday
+	Found 19 classes the Tuesday
+	Found 35 classes the Wednesday
+	Found 13 classes the Thursday
+	Found 16 classes the Friday
+
+In  March :
+	Found 16 classes the Monday
+	Found 22 classes the Tuesday
+	Found 29 classes the Wednesday
+	Found 7 classes the Thursday
+	Found 7 classes the Friday
+
+In  October :
+	Found 15 classes the Monday
+	Found 16 classes the Tuesday
+	Found 19 classes the Wednesday
+	Found 15 classes the Thursday
+	Found 19 classes the Friday
+
+In  November :
+	Found 25 classes the Monday
+	Found 25 classes the Tuesday
+	Found 19 classes the Wednesday
+	Found 11 classes the Thursday
+	Found 12 classes the Friday
+
+In  December :
+	Found 10 classes the Monday
+	Found 12 classes the Tuesday
+	Found 17 classes the Wednesday
+	Found 9 classes the Thursday
+	Found 15 classes the Friday
+
+In  January :
+	Found 17 classes the Monday
+	Found 24 classes the Tuesday
+	Found 24 classes the Wednesday
+	Found 12 classes the Thursday
+	Found 11 classes the Friday
+
+In  February :
+	Found 14 classes the Monday
+	Found 20 classes the Tuesday
+	Found 17 classes the Wednesday
+	Found 10 classes the Thursday
+	Found 16 classes the Friday
+
+In September :
+	Busy times on Monday    	: 08:00:00->12:30:00 | 13:00:00->20:00:00
+	Busy times on Tuesday    	: 08:00:00->12:45:00 | 13:30:00->17:00:00
+	Busy times on Wednesday  	: 08:00:00->12:45:00 | 13:30:00->19:00:00
+	Busy times on Thursday    	: 08:00:00->12:45:00 | 13:30:00->17:00:00
+	Busy times on Friday    	: 08:00:00->12:30:00 | 13:00:00->17:30:00
+
+In March :
+	Busy times on Monday    	: 08:00:00->12:30:00 | 13:45:00->17:00:00
+	Busy times on Tuesday    	: 08:00:00->13:00:00 | 13:00:00->17:30:00
+	Busy times on Wednesday  	: 08:00:00->12:30:00 | 13:45:00->17:00:00
+	Busy times on Thursday    	: 08:00:00->18:00:00 | 13:30:00->16:30:00
+	Busy times on Friday    	: 09:00:00->11:00:00 | 13:00:00->16:15:00
+
+In October :
+	Busy times on Monday    	: 09:30:00->12:00:00 | 13:45:00->19:30:00
+	Busy times on Tuesday    	: 08:30:00->11:45:00 | 13:00:00->18:15:00
+	Busy times on Wednesday  	: 08:00:00->12:30:00 | 13:45:00->17:00:00
+	Busy times on Thursday    	: 08:00:00->12:30:00 | 13:30:00->16:00:00
+	Busy times on Friday    	: 08:00:00->12:30:00 | 13:00:00->17:00:00
+
+In November :
+	Busy times on Monday    	: 09:30:00->12:00:00 | 13:45:00->19:30:00
+	Busy times on Tuesday    	: 08:30:00->12:45:00 | 13:00:00->17:30:00
+	Busy times on Wednesday  	: 08:00:00->18:00:00 | 13:45:00->17:00:00
+	Busy times on Thursday    	: 08:00:00->18:00:00 | no class
+	Busy times on Friday    	: 08:00:00->11:45:00 | 13:00:00->15:00:00
+
+In December :
+	Busy times on Monday    	: 09:30:00->12:00:00 | 13:45:00->19:30:00
+	Busy times on Tuesday    	: 08:30:00->11:45:00 | 13:45:00->17:00:00
+	Busy times on Wednesday  	: 08:00:00->12:30:00 | 13:45:00->17:00:00
+	Busy times on Thursday    	: 08:00:00->12:30:00 | 13:30:00->15:30:00
+	Busy times on Friday    	: 08:00:00->12:30:00 | 13:00:00->17:00:00
+
+In January :
+	Busy times on Monday    	: 09:30:00->12:00:00 | 13:45:00->19:30:00
+	Busy times on Tuesday    	: 08:30:00->11:45:00 | 13:00:00->17:30:00
+	Busy times on Wednesday  	: 08:00:00->12:30:00 | 13:00:00->17:45:00
+	Busy times on Thursday    	: 08:00:00->11:45:00 | no class
+	Busy times on Friday    	: 08:30:00->11:45:00 | 13:00:00->16:15:00
+
+In February :
+	Busy times on Monday    	: 09:00:00->12:15:00 | 13:45:00->19:30:00
+	Busy times on Tuesday    	: 08:30:00->11:45:00 | 13:00:00->17:30:00
+	Busy times on Wednesday  	: 08:00:00->12:30:00 | 13:45:00->17:00:00
+	Busy times on Thursday    	: 08:00:00->12:30:00 | 13:45:00->17:00:00
+	Busy times on Friday    	: 08:00:00->12:15:00 | 13:45:00->17:00:00
